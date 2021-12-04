@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Govind-Code
 - 👀 I’m interested in Java technology
-- 🌱 I’m currently learning spring boot framework in java
+- 🌱 I’m currently learning spring boot framework 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
